@@ -8,9 +8,9 @@ Documentação oficial do projeto Fatequino do curso de ADS da FATEC de Carapicu
 2. [Equipes](#equipes)
     * [Controle](#controle)
     * [Web](#web)
-    * [Mecânica](#mecanica)
-    * [Interação](#interacao)
-    * [Visão](#visao)
+    * [Mecânica](#mecânica)
+    * [Interação](#interacão)
+    * [Visão](#visão)
 
 
 # Introdução
