@@ -15,8 +15,9 @@ Documentação oficial do projeto Fatequino do curso de ADS da FATEC de Carapicu
 
 # Introdução
 
-O projeto Fatequino tem como objetivo geral a realização do planejamento, desenvolvimento e construção de um robo para interação com alunos, professores, funcionários, visitantes e internautas.
+O projeto Fatequino tem como objetivo geral a realização do planejamento, desenvolvimento e construção de um robô que faça a interação com alunos, professores, funcionários, visitantes e internautas.
 
+Para os alunos participantes, este projeto é uma oportunidade de aplicar na prática os conhecimentos adquiridos durante o curso e desenvolver novos conhecimentos na área de tecnologia.
 
 # Equipes
 
@@ -32,13 +33,50 @@ Utilizamos o [Trello](http://trello.com/) como ferramenta de controle das entreg
 
 ![](imgs/trello.png)
 
+O controle da documentação do projeto e da _organization_ [fatequino-manha](https://github.com/fatequino-manha) também é de responsabilidade desta equipe.
+
 ## Web
+
+Equipe responsável por pesquisar e desenvolver a solução de presença na web do fatequino. Atualmente, possuímos um [site](https://fatequino.com.br/) que pode ser melhorado/alterado para o bom andamento do projeto.
+
+Os requisitos de entrega são:
+
+- Site na Web para interação com os usuários.
+- Chatbot para interação na Web.
+- Armazenamento de dados para fins estatísticos.
+- Disponibilização de informações da Fatec.
+
 
 ## Mecânica
 
+Esta equipe é responsável por pesquisar e desenvolver a solução básica de movimentação, alimentação e construção do fatequino (robô).
+
+Os requisitos de entrega são:
+
+- Deslocamento.
+- Alimentação e recarga.
+- Autonomia.
+
 ## Interação
 
+Esta equipe é responsável por pesquisar e desenvolver a solução de interação do fatequino com alunos, professores, funcionários e visitantes. 
+
+Os requisitos de entrega são:
+
+- Sistema de comunicação audível.
+- Conversação.
+- Esclarecimento de dúvidas sobre por exemplo localização de salas de aula, disciplinas por sala, sala dos professores, etc.
+- Armazenamento de conversas para fins de levantamentos estatísticos.
+
 ## Visão
+
+Esta equipe é responsável por pesquisar e desenvolver a solução de identificação e reconhecimento visual de alunos, professores, funcionários e visitantes.
+
+Os requisitos de entrega são:
+
+- Identificar visualmente pessoas.
+- Auxiliar no deslocamento autônomo do robô.
+
 
 ## Licença
 
