@@ -11,6 +11,7 @@ Documentação oficial do projeto Fatequino do curso de ADS da FATEC de Carapicu
     * [Mecânica](#mecânica)
     * [Interação](#interacão)
     * [Visão](#visão)
+3. [Tecnologias](#tecnologias)
 
 
 # Introdução
@@ -76,6 +77,16 @@ Os requisitos de entrega são:
 
 - Identificar visualmente pessoas.
 - Auxiliar no deslocamento autônomo do robô.
+
+# Tecnologias
+
+Algumas das tecnologias utilizadas pelas equipes:
+
+- [OpenCV](https://opencv.org/)
+- [Flutter](https://flutter.dev/)
+- [Raspberry](https://www.raspberrypi.org/)
+- [Chatterbot](https://chatterbot.readthedocs.io/en/stable/)
+- [Python](https://www.python.org/)
 
 
 ## Licença
