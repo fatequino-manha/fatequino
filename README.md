@@ -11,6 +11,7 @@ Documentação oficial do projeto Fatequino do curso de ADS da FATEC de Carapicu
     * [Mecânica](#mecânica)
     * [Interação](#interacão)
     * [Visão](#visão)
+      * [Documentações](#visaodoc)
 3. [Tecnologias](#tecnologias)
 
 
@@ -77,6 +78,8 @@ Os requisitos de entrega são:
 
 - Identificar visualmente pessoas.
 - Auxiliar no deslocamento autônomo do robô.
+
+As documentações específicas desta equipe (manuais, códigos entreges e etc), se encontram [aqui](visao/README.md).
 
 # Tecnologias
 
