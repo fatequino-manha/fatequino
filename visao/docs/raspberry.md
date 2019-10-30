@@ -9,13 +9,21 @@ Realizar o download através deste [link](magnet:?xt=urn:btih:A812A403006D5F49CB
 Após a conclusão do download, seguir as imagens abaixo:
 
 ![](imgs/rasp1.gif)
+
 ![](imgs/rasp2.gif)
+
 ![](imgs/rasp3.gif)
+
 ![](imgs/rasp4.gif)
+
 ![](imgs/rasp5.gif)
+
 ![](imgs/rasp6.gif)
+
 ![](imgs/rasp7.gif)
+
 ![](imgs/rasp8.gif)
+
 
 ### Referências
 
