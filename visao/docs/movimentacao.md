@@ -1,5 +1,3 @@
-## Manual de movimentação
-
 ## Manual de Movimentação
 
 Os códigos de contagem de objetos em movimento se encontram dentro do diretório `./code`.
