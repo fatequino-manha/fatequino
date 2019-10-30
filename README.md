@@ -11,7 +11,6 @@ Documentação oficial do projeto Fatequino do curso de ADS da FATEC de Carapicu
     * [Mecânica](#mecânica)
     * [Interação](#interacão)
     * [Visão](#visão)
-      * [Documentações](#visaodoc)
 3. [Tecnologias](#tecnologias)
 
 
