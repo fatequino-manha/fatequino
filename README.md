@@ -58,6 +58,8 @@ Os requisitos de entrega são:
 - Alimentação e recarga.
 - Autonomia.
 
+As documentações específicas desta equipe (manuais, códigos entreges e etc), se encontram [aqui](mecanica/README.md).
+
 ## Interação
 
 Esta equipe é responsável por pesquisar e desenvolver a solução de interação do fatequino com alunos, professores, funcionários e visitantes. 
