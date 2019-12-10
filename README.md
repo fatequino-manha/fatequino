@@ -71,6 +71,9 @@ Os requisitos de entrega são:
 - Esclarecimento de dúvidas sobre por exemplo localização de salas de aula, disciplinas por sala, sala dos professores, etc.
 - Armazenamento de conversas para fins de levantamentos estatísticos.
 
+As documentações específicas desta equipe (manuais, códigos entreges e etc), se encontram [aqui](interacao/README.md).
+
+
 ## Visão
 
 Esta equipe é responsável por pesquisar e desenvolver a solução de identificação e reconhecimento visual de alunos, professores, funcionários e visitantes.
